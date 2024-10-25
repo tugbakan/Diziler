@@ -1,0 +1,14 @@
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\bin\Debug\net8.0\Diziler.exe
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\bin\Debug\net8.0\Diziler.deps.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\bin\Debug\net8.0\Diziler.runtimeconfig.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\bin\Debug\net8.0\Diziler.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\bin\Debug\net8.0\Diziler.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\obj\Debug\net8.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\obj\Debug\net8.0\Diziler.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\obj\Debug\net8.0\Diziler.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\obj\Debug\net8.0\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\obj\Debug\net8.0\Diziler.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\obj\Debug\net8.0\refint\Diziler.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\obj\Debug\net8.0\Diziler.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\obj\Debug\net8.0\Diziler.genruntimeconfig.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\Diziler\obj\Debug\net8.0\ref\Diziler.dll
